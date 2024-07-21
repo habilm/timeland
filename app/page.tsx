@@ -3,8 +3,6 @@ import Header from "./componets/header";
 import ProductList from "./sections/productsList";
 import Link from "next/link";
 
-export const generateMeta = () => {};
-
 export default function Home() {
   return (
     <main>
@@ -113,7 +111,7 @@ export default function Home() {
                       viewBox="0 0 24 24"
                       fill="none"
                       stroke="currentColor"
-                      stroke-width="1.5"
+                      strokeWidth="1.5"
                       stroke-linecap="round"
                       stroke-linejoin="round"
                     >
@@ -132,7 +130,7 @@ export default function Home() {
                       viewBox="0 0 24 24"
                       fill="none"
                       stroke="currentColor"
-                      stroke-width="1.5"
+                      strokeWidth="1.5"
                       stroke-linecap="round"
                       stroke-linejoin="round"
                     >

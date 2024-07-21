@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: "Timeland Watches",
   description:
     "Experice the ultimate watch shopping experience at our Ajamn, UAE Store. We Offer all brands, expert advice and more",
+  icons: {
+    icon: "/images/icon.jpg",
+  },
 };
 
 export default function RootLayout({

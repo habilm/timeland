@@ -1,7 +1,50 @@
 [
   {
-    "name": "",
-    "image": "",
+    "brand": "Domino",
+    "name": "DM-3216",
+    "image": "/images/domino-dm-3216.jpeg",
+    "price": ""
+  },
+  {
+    "brand": "Sveston",
+    "name": "SV-7520",
+    "image": "/images/sveston-sv-7520.jpeg",
+    "price": ""
+  },
+  {
+    "brand": "Sveston",
+    "name": "SV-7520",
+    "image": "/images/sveston-sv-7520-2.jpeg",
+    "price": ""
+  },
+  {
+    "brand": "Sveston",
+    "name": "SV-7520",
+    "image": "/images/sveston-sv-7520-3.jpeg",
+    "price": ""
+  },
+  {
+    "brand": "Sveston",
+    "name": "SV-7520",
+    "image": "/images/sveston-sv-7520-4.jpeg",
+    "price": ""
+  },
+  {
+    "brand": "Sveston",
+    "name": "SV-7520",
+    "image": "/images/sveston-sv-9327-3.jpeg",
+    "price": ""
+  },
+  {
+    "brand": "Sveston",
+    "name": "SV-9327",
+    "image": "/images/sveston-sv-9327.jpeg",
+    "price": ""
+  },
+  {
+    "brand": "Sveston",
+    "name": "SV-9327",
+    "image": "/images/sveston-sv-9327-2.jpeg",
     "price": ""
   }
 ]

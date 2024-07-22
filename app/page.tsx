@@ -64,7 +64,7 @@ export default function Home() {
               <div className="px-3 md:px-0">
                 <h3 className="font-bold text-gray-900">Location</h3>
                 <p className="py-4 text-lg">
-                  Shop NO: 23, Lulu Hypermarket, Ajamn, UAE
+                  Shop NO: 23, Lulu Hypermarket, Ajman, UAE
                 </p>
                 <p>
                   <Link

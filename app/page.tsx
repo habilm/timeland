@@ -182,6 +182,11 @@ export default function Home() {
             </div>
           </div>
         </div>
+        <div className="container">
+          <p className="text-xs text-center text-gray">
+            Developed By <Link href="https://finepher.com">Finepher</Link>{" "}
+          </p>
+        </div>
       </footer>
     </main>
   );

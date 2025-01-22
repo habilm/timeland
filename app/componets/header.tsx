@@ -54,7 +54,7 @@ export default function Header() {
             href="#"
           >
             <Image
-              src="/images/time-land-watches-logo.jpeg?d"
+              src="/images/time-land-watches-logo.jpeg?"
               alt="Time Land Watches Logo"
               width={500}
               height={100}

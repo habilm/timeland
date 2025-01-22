@@ -13,7 +13,7 @@ export default function Home() {
         style={{
           maxWidth: "1600px",
           height: "32rem",
-          backgroundImage: "url('/images/banner.png')",
+          backgroundImage: "url('/images/banner.webp')",
         }}
       >
         <div className="container mx-auto">

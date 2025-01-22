@@ -23,6 +23,7 @@ export default async function ProductList() {
               <a
                 className="pl-3 inline-block no-underline hover:text-black"
                 href="#"
+                title="filtetr"
               >
                 <svg
                   className="fill-current hover:text-black"
@@ -38,6 +39,7 @@ export default async function ProductList() {
               <a
                 className="pl-3 inline-block no-underline hover:text-black"
                 href="#"
+                title="search"
               >
                 <svg
                   className="fill-current hover:text-black"

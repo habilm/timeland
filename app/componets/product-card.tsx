@@ -5,7 +5,7 @@ export default function ProductCard({ name, price, image }: typeProduct) {
   return (
     <a href="#">
       <Image
-        alt={name}
+        alt={`Image of watch: ${name}`}
         width="500"
         height="500"
         className="hover:grow hover:shadow-lg"
